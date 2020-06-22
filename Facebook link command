@@ -1,0 +1,3 @@
+{!announce {channel} 
+***User:*** {user}
+***Facebook:*** [$1](https://www.facebook.com/$1)}
